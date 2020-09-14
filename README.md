@@ -1,5 +1,5 @@
 # project_four     
-My app is called Myshopping app
+My app is called Myshop app
 
 ## Project Description
 
