@@ -11,11 +11,12 @@ I am decided to create Ecomerce grocery app for consumer. I wanted to create thi
 - As a user I want to be able to put an item I selected to the cart
 - As a user I want to be able to see an item with price ,picture and and description
 - As a user I want to be able to increament of a slected item  
-- As a user I want to be able to delete a selected item from the cart
+
 - As owner or Admin of the app I can add and delete Item
 
 ## Stretch User Stories
 - As a user I want to be able to see related posts under the selected item
+- As a user I want to be able to delete a selected item from the cart
 - As a user I would like to add Alexa
 - As a user I want to be able to pay online
 ## Wireframes
